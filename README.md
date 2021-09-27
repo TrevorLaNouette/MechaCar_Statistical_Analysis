@@ -11,9 +11,11 @@
 The vehicle weight, spoiler angle, and AWD all showed non-random variance to MPG values.
 
 - Is the slope of the linear model considered to be zero? Why or why not?
+
 The P-value is 5.35e-11 which is less than our standard .05 so the Null hypothesis is rejected.
 
 - Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not?
+
 Our predicted accuracy rate or R-squared value is 0.7149 meaning it has a 71.5% accuracy rate. So, it has merit but will still be incorrect approximately 28.5% of the time.
 
 ## Summary Statistics on Suspension Coils
