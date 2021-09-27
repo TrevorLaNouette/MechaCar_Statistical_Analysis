@@ -40,20 +40,23 @@ As seen in the variance in our summaries show that the PSI values in total as we
 ### T-Test Overall
 
 <img width="472" alt="Deliverable 3 Overall" src="https://user-images.githubusercontent.com/82718969/134979284-757a9a67-3a3b-448e-be34-cb61efba3121.png">
-Overall P-Score .06028 > Standard of .05
+- Overall P-value .06028 > Standard of .05
+
 ### T-Test Lot 1
 
 <img width="547" alt="Lot 1 T" src="https://user-images.githubusercontent.com/82718969/134979320-f4474226-61c6-477a-ad23-99775bd049aa.png">
-Lot 1 P-Score 1 > Standard of .05
+- Lot 1 P-value 1 > Standard of .05
+
 ### T-Test Lot 2
 
 <img width="561" alt="Lot 2 T" src="https://user-images.githubusercontent.com/82718969/134979476-362e87eb-6bf8-4b9d-89a4-3c79aef70e4f.png">
 
-Lot 2 P-Score .6072 > Standard of .05
+- Lot 2 P-value .6072 > Standard of .05
+
 ### T-Test Lot 3
 
 <img width="600" alt="Lot 3 T" src="https://user-images.githubusercontent.com/82718969/134979505-4f2fc4fb-e5c6-48e5-99d6-c04bb98e3ce6.png">
-Lot 1 P-value .04168 < Standard of .05
+- Lot 3 P-value .04168 < Standard of .05
 
 ## Study Design: MechaCar vs Competition
 
