@@ -51,7 +51,7 @@ As seen in the variance in our summaries show that the PSI values in total as we
 
 <img width="561" alt="Lot 2 T" src="https://user-images.githubusercontent.com/82718969/134979476-362e87eb-6bf8-4b9d-89a4-3c79aef70e4f.png">
 
-- Lot 2 P-value .6072 > Standard of .05
+-Lot 2 P-value .6072 > Standard of .05
 
 ### T-Test Lot 3
 
